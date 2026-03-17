@@ -1,0 +1,43 @@
+12:09:08.681 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+12:09:08.687 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+12:09:08.697 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\Users\User\AppData\Local\Temp\testng-eclipse-1841147130\testng-customsuite.xml
+
+12:09:08.725 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+12:09:10.712 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.jq.Main@4443ef6f: 102 ms
+12:09:10.733 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.FailedReporter@4bee18dc: 20 ms
+12:09:10.758 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.XMLReporter@47f08b81: 25 ms
+12:09:10.770 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@d176a31: 11 ms
+12:09:10.785 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@392a04e7: 13 ms
+12:09:10.785 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7f02251: 0 ms
+12:11:50.622 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\workpaces\automation-workspace\Opencart121\master.xml
+
+12:12:09.390 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:25)oggger - ***** starting TC003_LoginDDT***** 
+12:12:11.579 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:81)oggger - ***** Finished TC003_LoginDDT***** 
+12:12:11.598 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:25)oggger - ***** starting TC003_LoginDDT***** 
+12:12:13.535 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:81)oggger - ***** Finished TC003_LoginDDT***** 
+12:12:13.546 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:25)oggger - ***** starting TC003_LoginDDT***** 
+12:12:15.776 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:25)oggger - ***** starting TC003_LoginDDT***** 
+12:12:26.653 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:81)oggger - ***** Finished TC003_LoginDDT***** 
+12:12:26.657 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:25)oggger - ***** starting TC003_LoginDDT***** 
+12:12:28.694 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:81)oggger - ***** Finished TC003_LoginDDT***** 
+12:22:44.911 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\workpaces\automation-workspace\Opencart121\master.xml
+
+12:22:52.522 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:25)oggger - ***** starting TC003_LoginDDT***** 
+12:22:55.851 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:81)oggger - ***** Finished TC003_LoginDDT***** 
+12:22:55.871 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:25)oggger - ***** starting TC003_LoginDDT***** 
+12:22:58.249 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:81)oggger - ***** Finished TC003_LoginDDT***** 
+12:22:58.262 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:25)oggger - ***** starting TC003_LoginDDT***** 
+12:23:00.380 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:81)oggger - ***** Finished TC003_LoginDDT***** 
+12:23:00.397 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:25)oggger - ***** starting TC003_LoginDDT***** 
+12:23:11.089 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:81)oggger - ***** Finished TC003_LoginDDT***** 
+12:23:11.096 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:25)oggger - ***** starting TC003_LoginDDT***** 
+12:23:13.640 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:81)oggger - ***** Finished TC003_LoginDDT***** 
+12:23:13.655 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:25)oggger - ***** starting TC003_LoginDDT***** 
+12:23:25.274 [main] INFO  testCases.TC003_LoginDDT.verify_loginDDT(TC003_LoginDDT.java:81)oggger - ***** Finished TC003_LoginDDT***** 
+17:16:16.314 [main] INFO  org.testng.log4testng.Logger.info(Logger.java:112)oggger - [TestNG] Running:
+  C:\workpaces\automation-workspace\Opencart121\grouping.xml
+
+17:16:24.863 [main] INFO  testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:17)oggger - ***** Starting TC001_AccountRegistrationTest extends BaseClass  *****
